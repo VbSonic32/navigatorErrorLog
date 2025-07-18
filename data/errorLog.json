@@ -1,0 +1,114 @@
+[
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:00:00.130",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:00:00 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 99 to 34 for Master Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:00:00.797",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:00:00 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 0 to 0 for Direct Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Warning",
+    "Timestamp": "2025-07-07 00:00:01.303",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:00:01 AM Title:Update Client From Server Side Category: Billing Priority: 2 EventId: 100 Severity: Warning Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Client Side Update Failed:Step 2 Location:1159,Currency:1,InvoiceCurrency:1 Success ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:00:07.997",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:00:07 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 116 to 40 for Master Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:00:14.073",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:00:14 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 3 to 1 for Direct Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Warning",
+    "Timestamp": "2025-07-07 00:00:29.790",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:00:29 AM Title:Update Client From Server Side Category: Billing Priority: 2 EventId: 100 Severity: Warning Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Client Side Update Failed:Step 2 Location:1175,Currency:1,InvoiceCurrency:1 Success ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:01:25.827",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:01:25 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 861 to 341 for Master Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:01:29.380",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:01:29 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 522 to 190 for Direct Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Warning",
+    "Timestamp": "2025-07-07 00:02:19.920",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:02:19 AM Title:Update Client From Server Side Category: Billing Priority: 2 EventId: 100 Severity: Warning Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Client Side Update Failed:Step 2 Location:1198,Currency:1,InvoiceCurrency:1 Success ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:02:26.150",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:02:26 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 144 to 59 for Master Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:02:26.827",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:02:26 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 18 to 9 for Direct Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Warning",
+    "Timestamp": "2025-07-07 00:02:58.653",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:02:58 AM Title:Update Client From Server Side Category: Billing Priority: 2 EventId: 100 Severity: Warning Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Client Side Update Failed:Step 2 Location:1264,Currency:1,InvoiceCurrency:1 Success ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:02:59.670",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:02:59 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 26 to 7 for Master Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:02:59.873",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:02:59 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 0 to 0 for Direct Bill batch number 15454 ErrorInfo: "
+  },
+  {
+    "Severity": "Warning",
+    "Timestamp": "2025-07-07 00:02:59.963",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:02:59 AM Title:Update Client From Server Side Category: Billing Priority: 2 EventId: 100 Severity: Warning Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Client Side Update Failed:Step 2 Location:1281,Currency:1,InvoiceCurrency:1 Success ErrorInfo: "
+  },
+  {
+    "Severity": "Information",
+    "Timestamp": "2025-07-07 00:03:02.643",
+    "MachineName": "TSTWEBNAV31",
+    "AppDomainName": "/LM/W3SVC/6/ROOT-1-133963154371715657",
+    "FormattedMessage": "Timestamp: 7/7/2025 12:03:02 AM Title:Billing Counts reduced Category: Billing Priority: 2 EventId: 100 Severity: Information Process Id: 9316 Process Name: c:\\windows\\system32\\inetsrv\\w3wp.exe Message:  Zero records removed reducing the count from 192 to 81 for Master Bill batch number 15454 ErrorInfo: "
+  }
+]
