@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface RecordsPerPageProps {
   recordsPerPage: number;
   onChange: (value: number) => void;
