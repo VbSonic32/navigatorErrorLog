@@ -416,11 +416,14 @@ export default function ErrorLogExplorer() {
 
             {/* Records Per Page and Pagination */}
             <div className="d-flex justify-content-between align-items-center mt-3">
-              <RecordsPerPage
-                recordsPerPage={pageSize}
-                onChange={handleRecordsPerPageChange}
-                options={[10, 25, 50]}
-              />
+              {searchType === 'details' && totalRecords > 10 && (
+                <RecordsPerPage
+                  recordsPerPage={pageSize}
+                  onChange={handleRecordsPerPageChange}
+                  options={[10, 25, 50]}
+                />
+              )}
+              {searchType === 'details' && totalRecords <= 10 && <div></div>}
               <Pagination
                 currentPage={page}
                 totalPages={totalPages}
