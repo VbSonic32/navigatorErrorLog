@@ -438,11 +438,12 @@ export default function ErrorLogExplorer() {
                 <i className="bi bi-search" style={{ fontSize: '2rem' }}></i>
               </div>
               <h5 className="card-title">Ready to Search</h5>
-              <p className="card-text text-muted">
+              <p className="card-text text-muted w-75 mx-auto">
                 Use the form above to search for error logs. Select a date range
                 (up to 5 days maximum) and severity, then click the Search
-                button. You can click on each row in the results to view
-                detailed information about the error log.
+                button. Choose between Details view to see individual logs
+                (click on rows to view more information) or Summary view to see
+                aggregated counts and percentages by severity type.
               </p>
             </div>
           </div>

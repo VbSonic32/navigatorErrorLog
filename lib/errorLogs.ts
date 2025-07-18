@@ -93,7 +93,6 @@ export async function getErrorLogs(params?: ErrorLogQueryParams): Promise<{
 
     // Parse the response
     const responseData = await response.json();
-    console.log('Raw API response:', responseData);
 
     // Check if the API already returned summary data
     if (
@@ -153,7 +152,6 @@ export async function getErrorLogs(params?: ErrorLogQueryParams): Promise<{
       console.log('Returning summary data to client');
       const summaryData = filteredLogs as ErrorLogSummary[];
 
-      console.log('Summary data:', summaryData);
       return {
         data: summaryData,
         total: summaryData.length,
